@@ -1,1 +1,1 @@
-# Python3CursoCompletodoBasicoaoAvancado
+# curso-python
